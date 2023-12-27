@@ -64,6 +64,7 @@ This will check through all of the resumes in the given folder and will give app
 The job description will be matched through jobs.json.
 
 
+![image](https://github.com/Ayancodes2003/hackAIdocumentation/assets/119226120/4df31806-e479-4ef0-8583-131d386dcb70)
 
 
 ## Video Demo
